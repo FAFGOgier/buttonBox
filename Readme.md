@@ -7,7 +7,7 @@ Au départ, le besoin : faire une *button box* pour faciliter l'usage des instru
 
 L'impulsion finale est venue d'une [vidéo youtube](https://www.youtube.com/watch?v=TOby1nIVuOA), qui porte sur un projet très différent (un cockpit relativement fidèle de Cessna).
 
-L'un des intérêts de la vidéo en question est qu'elle donne une liste du matériel nécessaire, ce qui évite d'être de chercher sans trop savoir que choisir.
+L'un des intérêts de la vidéo en question est qu'elle donne une liste du matériel nécessaire, ce qui évite de chercher sans trop savoir que choisir.
 
 Je pensais que ça me permettrait de faire une button box à moindres frais. En réalité, c'est plein de composants qui sont individuellement peu chers, mais mis bout à bout, ça douille sévère. Il faut dire que je me suis laissé entraîner pour le nombre de boutons.
 
