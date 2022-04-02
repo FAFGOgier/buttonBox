@@ -30,6 +30,8 @@ Les boutons simples se trouvent en de multiples versions, de plus ou moins bonne
 
 Un bouton vous prendra un slot digital sur une carte.
 
+![boutons](boutons.jpg)
+
 #### Les boutons à bascule
 
 Se trouvent en plusieurs versions :
@@ -40,9 +42,15 @@ Se trouvent en plusieurs versions :
 
 Un bouton à bascule vous prendra un ou deux slots digitaux sur une carte, selon les modèles.
 
+![bascules](bascule.jpg)
+
+
 #### Les autres interrupteurs
 
 On trouve par exemple des interrupteurs doubles rouges, parfaits pour l'activation de la batterie et de l'alternateur sur un avion d'aviation générale. 
+
+
+![interrupteurs](interrupteurs.jpg)
 
 #### Les encodeurs
 
@@ -54,7 +62,11 @@ La plupart du temps, il est aussi possible d'enfoncer l'encodeur, ce qui donne u
 
 Un encodeur vous prendra trois slots digitaux sur une carte (si on utilise la fonction "bouton enfoncé").
 
+![encodeurs](encodeur.jpg)
+
 #### L'encodeur à deux axes concentriques
+
+![encodeur double](double_encodeur.jpg)
 
 Ouf. Celui-là a été un gros poste de dépenses, et je me demande si c'était bien utile. 
 C'est ce qu'on trouve pour régler par exemple COM et NAV dans un avion, avec deux molettes concentriques, 
